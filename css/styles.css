@@ -1,0 +1,23 @@
+p.intro {
+
+}
+
+img.intro {
+  
+}
+
+p.para1 {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 30px;
+  color: blue;
+}
+
+p.para2 {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 24px;
+}
+
+p.para3 {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 24px;
+}
